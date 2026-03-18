@@ -9,8 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Asjadfaroq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asjadfaroq&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asjadfaroq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -19,10 +17,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Asjadfaroq/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asjadfaroq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Asjadfaroq&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -32,5 +27,54 @@
 
 
 
+[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=red1-for-hek&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+
+<br/><br/>
+
+<div align="center">
+  
+
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/red1-for-hek">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=red1-for-hek&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+ 
+</div>
+
+<br/>
+
+<br/>
