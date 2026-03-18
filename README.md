@@ -132,7 +132,7 @@
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-trophies.vercel.app/?username=red1-for-hek&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-trophies.vercel.app/?username=Asjadfaroq&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
 </a>
 
 </div>
@@ -151,8 +151,8 @@
 
 <br/>
 
-<a href="https://github.com/red1-for-hek">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=red1-for-hek&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<a href="https://github.com/Asjadfaroq">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asjadfaroq&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
 
 </div>
